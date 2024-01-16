@@ -12,11 +12,11 @@ Then please go to public directory and open upload.php file and write you'r aws 
 
 After taht in order to dawnload docker images execut docker, run follow commands:
 ```bash
+composer update
 docker-compose build app
 ```
 and then run:
 ```bash
-docker-compose exec app composer update
 docker-compose up -d
 ```
 Now you can execute project on [localhost:1991](localhost:1991) 
