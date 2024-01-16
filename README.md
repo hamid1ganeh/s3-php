@@ -1,4 +1,4 @@
-![Logo](https://github.com/hamid1ganeh/s3-php.git)
+![Logo](https://github.com/hamid1ganeh/s3-php/blob/main/image.png)
 
 # S3-PHP
 Firsrt of all you need to clone the project from this repository.
