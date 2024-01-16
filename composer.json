@@ -1,0 +1,12 @@
+{
+    "name": "rdsysco/s3",
+    "authors": [
+        {
+            "name": "Hamid Yeganehdoost",
+            "email": "hamid1ganeh@gmail.com"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.296"
+    }
+}
