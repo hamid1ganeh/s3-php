@@ -16,6 +16,13 @@ docker-compose build app
 ```
 and then run:
 ```bash
+docker-compose exec app composer update
 docker-compose up -d
 ```
 Now you can execute project on [localhost:1991](localhost:1991) 
+
+
+## Authors
+
+- [@Hamid1ganeh2st](https://github.com/hamid1ganeh)
+
